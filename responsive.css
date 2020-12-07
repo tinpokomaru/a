@@ -1,0 +1,6 @@
+@media all and (max-width: 670px) {
+    .tradingview-widget-container div div {
+        height: 100% !important;
+        width: 100% !important;
+     }
+  }
